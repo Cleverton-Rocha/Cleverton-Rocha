@@ -8,7 +8,7 @@
 
 ## Social Media 🌍
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/cleverton-rocha-116803226/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=FFF)](https://github.com/clrocha09)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=FFF)](https://github.com/Cleverton-Rocha)
 
 ##  Skills 💻
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
