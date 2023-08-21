@@ -25,6 +25,7 @@
 
 
 ## My Projects 👨🏻‍💻
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=dio-lab-open-source&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/clrocha09/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=TODOLIST-FULLSTACK&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/clrocha09/TODOLIST-FULLSTACK)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=dio-lab-open-source&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/Cleverton-Rocha/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=TODOLIST-FULLSTACK&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/Cleverton-Rocha/TODOLIST-FULLSTACK)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=Weather-app&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/Cleverton-Rocha/Weather-app)
 
