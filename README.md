@@ -16,14 +16,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
 ![StyledComponents](https://img.shields.io/badge/StyledComponents-000?style=for-the-badge&logo=styledcomponents)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwind-css&logoColor=tailwind)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
 ![NodeJS](https://img.shields.io/badge/nodeJS-000?style=for-the-badge&logo=node.js)
-
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=red)
-
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=git)
 ![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=github)
