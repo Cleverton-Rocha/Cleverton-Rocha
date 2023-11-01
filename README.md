@@ -33,7 +33,7 @@
 
 
 ## My Projects 👨🏻‍💻
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=Angular-PlayStationStore&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/Cleverton-Rocha/Angular-PlayStationStore)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=Angular-Blog&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/Cleverton-Rocha/Angular-Blog)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=TODOLIST-FULLSTACK&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/Cleverton-Rocha/TODOLIST-FULLSTACK)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=to-do-list-fullstack-python-react&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/Cleverton-Rocha/to-do-list-fullstack-python-react)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=ecommerce-api&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/Cleverton-Rocha/ecommerce-api)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=minimalist-ecommerce&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/Cleverton-Rocha/minimalist-ecommerce)
 
