@@ -7,7 +7,6 @@
  - 🔰 Oficial da reserva do Exército Brasileiro.
 
 ## Social Media 🌍
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/_clrocha/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/cleverton-rocha)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=FFF)](https://github.com/Cleverton-Rocha)
 
