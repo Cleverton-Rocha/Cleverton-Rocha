@@ -7,30 +7,32 @@
  - 🔰 Oficial da reserva do Exército Brasileiro.
 
 ## Social Media 🌍
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/cleverton-rocha)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=FFF)](https://github.com/Cleverton-Rocha)
 
 ##  Skills 💻
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![StyledComponents](https://img.shields.io/badge/StyledComponents-000?style=for-the-badge&logo=styledcomponents)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwind-css&logoColor=tailwind)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
-![NodeJS](https://img.shields.io/badge/nodeJS-000?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=git)
-![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=github)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Github Stats  📶
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cleverton-Rocha&theme=transparent&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=894ef2&title_color=7e39f7&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cleverton-Rocha&theme=transparent&bg_color=000&border_color=4867af&show_icons=true&icon_color=4867af&title_color=4867af&text_color=FFF)
 
 
 ## My Projects 👨🏻‍💻
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=to-do-list-fullstack-python-react&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/Cleverton-Rocha/to-do-list-fullstack-python-react)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=ecommerce-api&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/Cleverton-Rocha/ecommerce-api)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=minimalist-ecommerce&bg_color=000&border_color=6b1df5&show_icons=true&icon_color=7e39f7&title_color=7e39f7&text_color=FFF)](https://github.com/Cleverton-Rocha/minimalist-ecommerce)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=to-do-list-fullstack-python-react&bg_color=000&border_color=4867af&show_icons=true&icon_color=4867af&title_color=4867af&text_color=FFF)](https://github.com/Cleverton-Rocha/to-do-list-fullstack-python-react)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=ecommerce-api&bg_color=000&border_color=4867af&show_icons=true&icon_color=4867af&title_color=4867af&text_color=FFF)](https://github.com/Cleverton-Rocha/ecommerce-api)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleverton-Rocha&repo=minimalist-ecommerce&bg_color=000&border_color=4867af&show_icons=true&icon_color=4867af&title_color=4867af&text_color=FFF)](https://github.com/Cleverton-Rocha/minimalist-ecommerce)
 
