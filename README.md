@@ -2,7 +2,7 @@
 
 ## About Me:
  - 🥳 21 anos.
- - 📊 4º período de Análise e Desenvolvimento de Sistemas.
+ - 📊 5º período de Análise e Desenvolvimento de Sistemas.
  - 💕 Apaixonado por tecnologia e por aprender.
  - 🔰 Oficial da reserva do Exército Brasileiro.
 
