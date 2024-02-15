@@ -30,14 +30,17 @@ StartREADME();
 </table>
 
 <h2>⚡️ Github Stats</h2>
-<a href="https://github.com/Cleverton-Rocha" align="center">
-  <img  width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Cleverton-Rocha&layout=compact&include_all_commits=true&count_private=true&show_icons=true&icon_color=f2d200&theme=github_dark&bg_color=13171c&border_color=37383b" /> 
-</a>
-<a href="https://github.com/Cleverton-Rocha" align="center">
-  <img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleverton-Rocha&layout=compact&theme=github_dark&bg_color=13171c&border_color=37383b&langs_count=6"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Cleverton-Rocha" align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=Cleverton-Rocha&include_all_commits=true&count_private=true&show_icons=true&icon_color=38761d&theme=github_dark&bg_color=13171c&border_color=37383b&title_color=FFF" /> 
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/Cleverton-Rocha" align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleverton-Rocha&layout=compact&theme=github_dark&bg_color=13171c&border_color=37383b&langs_count=6&title_color=FFF"/>
+  </a>
+</p>
 
-<br />
 <br />
 <br />
 <p align="center">
