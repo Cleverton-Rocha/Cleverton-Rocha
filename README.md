@@ -12,7 +12,7 @@ StartREADME();
 
 <h2>🚀 Sobre</h2>
 <ul>
-  <li>21 anos</li>
+  <li>22 anos</li>
   <li>Dev FullStack</li>
   <li>5º período - Análise e Desenvolvimento de Sistemas</li>
 </ul>
