@@ -44,6 +44,6 @@ StartREADME();
 <br />
 <br />
 <p align="center">
-  <a href="https://www.linkedin.com/in/saulo-felipe-083657232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/clevertonrocha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:cl.rch09@icloud.com?subject=Digite sobre o assunto :D"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" /></a>
 </p>
