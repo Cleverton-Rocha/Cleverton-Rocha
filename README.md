@@ -21,7 +21,7 @@ StartREADME();
 <table>
   <tr>
     <th align="left">👑 Principais: </th>
-    <td><img src="https://skillicons.dev/icons?i=javascript,typescript,java,spring,docker,tailwind,prisma,nest,nodejs,react,nextjs,html,css,sass,bootstrap,mysql,postgres,mongo,git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,java,spring,nest,docker,html,css,sass,tailwind,bootstrap,prisma,mysql,postgres,mongo,git" /></td>
   </tr>
   <tr>
     <th align="left">🤖 Outras: </th>
