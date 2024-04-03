@@ -2,12 +2,16 @@
   { Cleverton Rocha }
 </h1>
 
-```javascript
-const StartREADME = () => {
-  console.log("Welcome to my github README 🙋🏻‍♂️");
-}
+```java
+public class StartREADME {
+    public static void main(String[] args) {
+        welcome();
+    }
 
-StartREADME();
+    public static void welcome() {
+        System.out.println("Welcome to my GitHub README 🙋🏻‍♂️");
+    }
+}
 ```
 
 <h2>🚀 Sobre</h2>
@@ -20,12 +24,20 @@ StartREADME();
 <h2>📌 Habilidades</h2>
 <table>
   <tr>
-    <th align="left">👑 Principais: </th>
-    <td><img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,java,spring,nest,docker,html,css,sass,tailwind,bootstrap,prisma,mysql,postgres,mongo,git,github" /></td>
+    <th align="left">Frontend: </th>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,bootstrap" /></td>
   </tr>
   <tr>
-    <th align="left">🤖 Outras: </th>
-    <td><img src="https://skillicons.dev/icons?i=python,rust" /></td>
+    <th align="left">Backend: </th>
+    <td><img src="https://skillicons.dev/icons?i=typescript,nodejs,java,spring,docker" /></td>
+  </tr>
+  <tr>
+    <th align="left">Database: </th>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" /></td>
+  </tr>
+  <tr>
+    <th align="left">Aprendendo: </th>
+    <td><img src="https://skillicons.dev/icons?i=rust" /></td>
   </tr>    
 </table>
 
@@ -45,5 +57,5 @@ StartREADME();
 <br />
 <p align="center">
   <a href="https://www.linkedin.com/in/clevertonrocha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:cl.rch09@icloud.com?subject=Digite sobre o assunto :D"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" /></a>
+  <a href="mailto:cl.rch02@gmail.com?subject=Digite sobre o assunto :D"><img src="https://img.shields.io/badge/mail-3693F3?style=for-the-badge&logo=Icloud&logoColor=white" /></a>
 </p>
