@@ -18,7 +18,7 @@ public class StartREADME {
 <ul>
   <li>22 anos</li>
   <li>Dev FullStack</li>
-  <li>5º período - Análise e Desenvolvimento de Sistemas</li>
+  <li>Graduado em Análise e Desenvolvimento de Sistemas</li>
 </ul>
 
 <h2>📌 Habilidades</h2>
